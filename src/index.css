@@ -16,11 +16,12 @@ button {
     outline: none;
     border: 1px solid black;
     cursor: pointer;
+    margin-left: 42rem;
 }
 
 h1 {
     text-align: center;
     font-size: 60px;
     color: black;
-    position: static;
+    padding-top: 20%;
 }
